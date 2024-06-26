@@ -1,3 +1,21 @@
+.logoBuilderSlideContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.svgItemContainer{
+    display: flex;
+    overflow: auto;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 100vh;
+    flex-direction: row;
+    width: 26%;
+    flex-wrap: wrap;
+}
+.active{
+    border: 4px solid red !important;
+}
 .logoBuilderSlideSidebarItemContainer {
     display: flex;
     justify-content: center;
@@ -11,4 +29,196 @@
 }
 .logoBuilderSlideSidebarItem {
     width: 100%;
+}
+
+.logoBuilderSlideTemplateViewContainer {
+    display: flex;
+    overflow: auto;
+    overflow-y: scroll;
+    height: 100%;
+    flex-direction: row;
+    width: 85%;
+    flex-wrap: wrap;
+}
+
+.logoBuilderSlideTemplateViewItem1 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(116, 163, 183);
+    position: relative;
+}
+.tshirt{
+    position: absolute;
+    top: 216px;
+    left: 208px;
+}
+.tshirt svg{
+  width: 185px;
+}
+.logoBuilderSlideTemplateViewItem1 img{
+    width: 100%;
+    height: auto;
+}
+
+.logoBuilderSlideTemplateViewItem2 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(211, 207, 208);
+    position: relative;
+}
+.desktop{
+    position: absolute;
+    top: 44%;
+    left: 37%;
+}
+.desktop svg{
+    width: 185px;
+}
+
+.logoBuilderSlideTemplateViewItem2 img{
+    width: 100%;
+    height: auto;
+}
+
+.logoBuilderSlideTemplateViewItem3 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(186, 193, 185);
+    position: relative;
+}
+.mog{   
+    position: absolute;
+    top: 38%;
+    left: 37%;
+}
+.mog svg{
+    width: 185px;
+}
+.logoBuilderSlideTemplateViewItem3 img{
+    width: 100%;
+    height: auto;
+}
+
+.logoBuilderSlideTemplateViewItem4 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(221, 203, 189);
+    position: relative;
+}
+.bottle {   
+    position: absolute;
+    top: 52%;
+    left: 40%;
+}
+.bottle  svg{
+    width: 140px;
+}
+.logoBuilderSlideTemplateViewItem4 img {
+    width: 100%;
+    height: auto;
+}
+
+.logoBuilderSlideTemplateViewItem5 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(255 218 5);
+    position: relative;
+}
+.laptop {   
+    position: absolute;
+    top: 40%;
+    left: 38%;
+}
+.laptop  svg{
+    width: 185px;
+}
+
+.logoBuilderSlideTemplateViewItem5 img{
+    width: 100%;
+    height: auto;
+}
+
+.logoBuilderSlideTemplateViewItem6 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(212, 190, 151);
+    position: relative;
+}
+.notebook1{
+    position: absolute;
+    top: 28%;
+    left: 16%;
+    
+}
+.notebook1 svg{
+   width: 140px;
+
+}
+.notebook2{
+    position: absolute;
+    top: 43%;
+    left: 55%;
+    
+}
+.notebook2 svg{
+   width: 140px;
+
+}
+.logoBuilderSlideTemplateViewItem6 img{
+    width: 100%;
+    height: auto;
+}
+
+.logoBuilderSlideTemplateViewItem7 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(109, 109, 109);
+    position: relative;
+}
+.bag1{
+    position: absolute;
+    top: 54%;
+    left: 18%;
+    
+}
+.bag1 svg{
+   width: 140px;
+
+}
+.bag2{
+    position: absolute;
+    top: 48%;
+    left: 55%;
+    
+}
+.bag2 svg{
+   width: 170px;
+
+}
+.logoBuilderSlideTemplateViewItem7 img{
+    width: 100%;
+    height: auto;
+}
+
+.logoBuilderSlideTemplateViewItem8 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(153, 202, 199);
+    position: relative;
+}
+
+.paper{
+    position: absolute;
+    top: 44%;
+    left: 37%;
+    
+}
+.paper svg{
+   width: 210px;
+
+}
+
+.logoBuilderSlideTemplateViewItem8 img{
+    width: 100%;
+    height: auto;
 }
