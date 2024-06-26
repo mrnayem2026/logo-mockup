@@ -1,0 +1,14 @@
+.logoBuilderSlideSidebarItemContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid #f2f2f2;
+    padding: 7px;
+    background-color: #fff;
+    height: auto;
+    margin: 3px 0;
+    cursor: pointer;
+}
+.logoBuilderSlideSidebarItem {
+    width: 100%;
+}
