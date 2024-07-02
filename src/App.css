@@ -3,7 +3,7 @@
     flex-direction: row;
 }
 
-.svgItemContainer{
+.svgItemContainer {
     display: flex;
     overflow: auto;
     overflow-y: scroll;
@@ -13,9 +13,11 @@
     width: 26%;
     flex-wrap: wrap;
 }
-.active{
+
+.active {
     border: 4px solid red !important;
 }
+
 .logoBuilderSlideSidebarItemContainer {
     display: flex;
     justify-content: center;
@@ -27,6 +29,7 @@
     margin: 3px 0;
     cursor: pointer;
 }
+
 .logoBuilderSlideSidebarItem {
     width: 100%;
 }
@@ -47,15 +50,18 @@
     background-color: rgb(116, 163, 183);
     position: relative;
 }
-.tshirt{
+
+.tshirt {
     position: absolute;
     top: 216px;
     left: 208px;
 }
-.tshirt svg{
-  width: 185px;
+
+.tshirt svg {
+    width: 185px;
 }
-.logoBuilderSlideTemplateViewItem1 img{
+
+.logoBuilderSlideTemplateViewItem1 img {
     width: 100%;
     height: auto;
 }
@@ -66,16 +72,18 @@
     background-color: rgb(211, 207, 208);
     position: relative;
 }
-.desktop{
+
+.desktop {
     position: absolute;
     top: 44%;
     left: 37%;
 }
-.desktop svg{
+
+.desktop svg {
     width: 185px;
 }
 
-.logoBuilderSlideTemplateViewItem2 img{
+.logoBuilderSlideTemplateViewItem2 img {
     width: 100%;
     height: auto;
 }
@@ -86,15 +94,18 @@
     background-color: rgb(186, 193, 185);
     position: relative;
 }
-.mog{   
+
+.mog {
     position: absolute;
     top: 38%;
     left: 37%;
 }
-.mog svg{
+
+.mog svg {
     width: 185px;
 }
-.logoBuilderSlideTemplateViewItem3 img{
+
+.logoBuilderSlideTemplateViewItem3 img {
     width: 100%;
     height: auto;
 }
@@ -105,14 +116,17 @@
     background-color: rgb(221, 203, 189);
     position: relative;
 }
-.bottle {   
+
+.bottle {
     position: absolute;
     top: 52%;
     left: 40%;
 }
-.bottle  svg{
+
+.bottle svg {
     width: 140px;
 }
+
 .logoBuilderSlideTemplateViewItem4 img {
     width: 100%;
     height: auto;
@@ -124,16 +138,18 @@
     background-color: rgb(255 218 5);
     position: relative;
 }
-.laptop {   
+
+.laptop {
     position: absolute;
     top: 40%;
     left: 38%;
 }
-.laptop  svg{
+
+.laptop svg {
     width: 185px;
 }
 
-.logoBuilderSlideTemplateViewItem5 img{
+.logoBuilderSlideTemplateViewItem5 img {
     width: 100%;
     height: auto;
 }
@@ -144,27 +160,32 @@
     background-color: rgb(212, 190, 151);
     position: relative;
 }
-.notebook1{
+
+.notebook1 {
     position: absolute;
     top: 28%;
     left: 16%;
-    
-}
-.notebook1 svg{
-   width: 140px;
 
 }
-.notebook2{
+
+.notebook1 svg {
+    width: 140px;
+
+}
+
+.notebook2 {
     position: absolute;
     top: 43%;
     left: 55%;
-    
-}
-.notebook2 svg{
-   width: 140px;
 
 }
-.logoBuilderSlideTemplateViewItem6 img{
+
+.notebook2 svg {
+    width: 140px;
+
+}
+
+.logoBuilderSlideTemplateViewItem6 img {
     width: 100%;
     height: auto;
 }
@@ -175,27 +196,32 @@
     background-color: rgb(109, 109, 109);
     position: relative;
 }
-.bag1{
+
+.bag1 {
     position: absolute;
     top: 54%;
     left: 18%;
-    
-}
-.bag1 svg{
-   width: 140px;
 
 }
-.bag2{
+
+.bag1 svg {
+    width: 140px;
+
+}
+
+.bag2 {
     position: absolute;
     top: 48%;
     left: 55%;
-    
-}
-.bag2 svg{
-   width: 170px;
 
 }
-.logoBuilderSlideTemplateViewItem7 img{
+
+.bag2 svg {
+    width: 170px;
+
+}
+
+.logoBuilderSlideTemplateViewItem7 img {
     width: 100%;
     height: auto;
 }
@@ -207,18 +233,19 @@
     position: relative;
 }
 
-.paper{
+.paper {
     position: absolute;
     top: 44%;
     left: 37%;
-    
-}
-.paper svg{
-   width: 210px;
 
 }
 
-.logoBuilderSlideTemplateViewItem8 img{
+.paper svg {
+    width: 210px;
+
+}
+
+.logoBuilderSlideTemplateViewItem8 img {
     width: 100%;
     height: auto;
 }
